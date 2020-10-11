@@ -12,4 +12,4 @@ Renderer: GLES 2
 
 ## Screenshots
 
-![Screenshot](screenshots/navigation.png)
+![Screenshot](screenshots/Capture.png)
